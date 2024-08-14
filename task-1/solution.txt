@@ -7,8 +7,7 @@ touch bad.txt
 cd ..
 4- mv one.txt /home/osc/Download
 5- cd /home/osc/Download
-cp one.txt /home/osc/Download
-mv one.txt copy.txt
+cp one.txt copy.txt
 6- cd /home/osc/Desktop/ziad
 7- nano two.txt
 ziad
