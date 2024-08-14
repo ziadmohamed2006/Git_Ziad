@@ -1,0 +1,19 @@
+1- mkdir ziad
+cd ziad
+2- touch one.txt two.txt three.txt four.txt
+3- mkdir BAD 
+cd BAD
+touch bad.txt
+cd ..
+4- mv one.txt /home/osc/Download
+5- cd /home/osc/Download
+cp one.txt /home/osc/Dpwnload
+mv one.txt copy.txt
+6- cd /home/osc/Desktop/ziad
+7- nano two.txt
+ziad
+ctrl+s  ctrl+x
+8- echo "1-hello OSC 2-hello OSC 3-hello OSC 4-hello OSC 5-hello OSC 6-hello OSC 7-hello OSC 8-hello OSC" >three.txt
+9- mv three.txt hello.txt
+10- rm four.txt
+11- rm -r BAD
